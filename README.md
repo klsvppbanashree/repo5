@@ -1,2 +1,3 @@
 # repo5
-"HELLO  WORLD"
+echo "HELLO  WORLD"
+echo "welcome to SE lab"
